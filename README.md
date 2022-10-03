@@ -4,5 +4,5 @@
 - https://www.youtube.com/playlist?list=PLwvrYc43l1MzeA2bBYQhCWr2gvWLs9A7S amigoscode
 - tasca nivell 1 : eclipse
 - tasca nivell 2 : intellij
-- tasca nivell 1 : eclipse/intellij + postman
+- tasca nivell 3 : eclipse/intellij + postman
 

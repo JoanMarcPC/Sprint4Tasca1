@@ -1,0 +1,37 @@
+{
+	"info": {
+		"_postman_id": "f6ec1cda-012f-4a94-96f0-04a29092f748",
+		"name": "HelloWorldMaven (eclipse)",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "23574559"
+	},
+	"item": [
+		{
+			"name": "HelloWorld",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:9000/HelloWorld",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "9000",
+					"path": [
+						"HelloWorld"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "HelloWorldWithName",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

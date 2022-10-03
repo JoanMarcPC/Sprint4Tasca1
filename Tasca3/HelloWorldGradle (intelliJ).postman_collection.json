@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "910c57ff-ba5f-483c-b208-4c13952687bf",
+		"name": "HelloWorldGradle (intelliJ)",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "23574559"
+	},
+	"item": [
+		{
+			"name": "HelloWorld",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "HelloWorldWithName",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
